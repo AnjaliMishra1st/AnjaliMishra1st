@@ -1,27 +1,68 @@
+<h1 align="center">👋 Hi, I'm Anjali Mishra</h1>
+<h3 align="center">Cloud & DevOps Enthusiast | Aspiring Software Engineer</h3>
 
-<h1 align="center">Hi 👋, I'm Anjali Mishra</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwwxThvN27agMA75bi18jkPkj2Patv5UpYQ&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalimishra1st&label=Profile%20views&color=0e75b6&style=flat" alt="anjalimishra1st" /> </p>
+<img align="right" alt="coding girl" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-- 🌱 I’m currently learning **DSA with Python & AWS,Linux**
 
-- ⚡ Fun fact **I am very funny, sometime i unable to control my laugh**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anjali mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjali mishra" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/njali mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="njali mishra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anjali mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjali mishra" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anjali mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anjali mishra" height="30" width="40" /></a>
-</p>
+🧩 About Me  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+```cpp
+struct Engineer {
+    string name = "Anjali Mishra";
+    string specialization = "Cloud Computing & DevOps";
+    string passion = "Building scalable systems and solving real-world problems";
+    string currentlyLearning = "DSA in Python, AWS, and Linux";
+    string funFact = "I debug faster with coffee ☕";
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjalimishra1st&show_icons=true&locale=en&layout=compact" alt="anjalimishra1st" /></p>
+🚀 Technical Interests
+☁️ Cloud Infrastructure: AWS, Docker, Kubernetes, CI/CD Pipelines
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjalimishra1st&show_icons=true&locale=en" alt="anjalimishra1st" /></p>
+🧠 Problem Solving: Data Structures & Algorithms (C++ / Python)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishra1st&" alt="anjalimishra1st" /></p>
+💻 Development: Full Stack Web Apps (Flask, React, MySQL)
 
+🧩 Open Source: Contributor @ Techtonica
+
+🧰 Automation & Monitoring: Linux, GitHub Actions, Jenkins
+
+🧠 Current Focus
+Strengthening DSA & System Design fundamentals , Project
+Preparing for Google Summer of Code (GSoC) and Cloud & DevOps internships
+
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,java,aws,docker,kubernetes,linux,git,githubactions,html,css,js,mysql,flask,react,vscode" /> </p>
+
+---
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjalimishra1st&show_icons=true&theme=tokyonight" alt="Anjali's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishra1st&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishra1st&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+
+---
+
+🌐 Connect with Me
+<p align="left"> <a href="https://linkedin.com/in/anjali-mishra" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /> </a> <a href="https://www.hackerrank.com/anjalimishra" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="Hackerrank" height="40" /> </a> <a href="https://leetcode.com/anjalimishra" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="Leetcode" height="40" /> </a> <a href="https://auth.geeksforgeeks.org/user/anjalimishra" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" /> </a> </p>
+
+---
+
+🏆 GitHub Achievements
+
+🏅 Pair Extraordinaire – Collaborated effectively on open-source projects
+🐙 Pull Shark – Successfully merged PRs to major orgs like Techtonica & Kubernetes
+💻 Active Contributor – Committed to building meaningful projects
+
+---
+
+⚡ Fun Zone
+while (alive):
+    learn()
+    code()
+    laugh()
+    repeat()
+    
+
+⭐ "Code. Learn. Contribute. Repeat."
+🌱 Let’s connect & grow together!
