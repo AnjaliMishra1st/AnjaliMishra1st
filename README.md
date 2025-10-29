@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding girl" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
 
-
 ---
 
 🧩 About Me  
@@ -13,33 +12,37 @@ struct Engineer {
     string name = "Anjali Mishra";
     string specialization = "Cloud Computing & DevOps";
     string passion = "Building scalable systems and solving real-world problems";
-    string currentlyLearning = "DSA in Python, AWS, and Linux";
+    string currentlyLearning = "DSA in cpp, AWS, and Linux, Docker";
     string funFact = "I debug faster with coffee ☕";
 };
 ```
 
 🚀 Technical Interests
+---
 ☁️ Cloud Infrastructure: AWS, Docker, Kubernetes, CI/CD Pipelines
 
 🧠 Problem Solving: Data Structures & Algorithms (C++ / Python)
 
 💻 Development: Full Stack Web Apps (Flask, React, MySQL)
 
-🧩 Open Source: Contributor @ Techtonica
+🧩 Open Source: Contributor @Techtonica , CNCF/Kubernetes
 
 🧰 Automation & Monitoring: Linux, GitHub Actions, Jenkins
 
 🧠 Current Focus
-Strengthening DSA & System Design fundamentals , Project
-Preparing for Google Summer of Code (GSoC) and Cloud & DevOps internships
+---
+Strengthening DSA , Project,
+Preparing for GSoC, Cloud & DevOps internships
 
+---
 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,java,aws,docker,kubernetes,linux,git,githubactions,html,css,js,mysql,flask,react,vscode" /> </p>
 
 ---
 
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjalimishra1st&show_icons=true&theme=tokyonight" alt="Anjali's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishra1st&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishra1st&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjalimishra1st&show_icons=true&theme=tokyonight" alt="Anjali's GitHub stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishra1st&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishra1st&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
@@ -49,9 +52,11 @@ Preparing for Google Summer of Code (GSoC) and Cloud & DevOps internships
 ---
 
 🏆 GitHub Achievements
+---
+🏅 Pair Extraordinaire – Collaborated effectively on open-source projects Techtonica
 
-🏅 Pair Extraordinaire – Collaborated effectively on open-source projects
-🐙 Pull Shark – Successfully merged PRs to major orgs like Techtonica & Kubernetes
+🐙 Pull Shark – Successfully merged PRs to major orgs like Kubernetes
+
 💻 Active Contributor – Committed to building meaningful projects
 
 ---
