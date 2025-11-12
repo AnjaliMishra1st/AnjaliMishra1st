@@ -34,7 +34,7 @@ struct Engineer {
 🧠 Current Focus
 ---
 Strengthening DSA , Project,
-Preparing for GSoC, Cloud & DevOps internships
+Cloud & DevOps internships
 
 ---
 🛠️ Tech Stack
