@@ -27,7 +27,7 @@ struct Engineer {
 
 💻 Development: Full Stack Web Apps (Flask, React, MySQL)
 
-🧩 Open Source: Contributor @Techtonica , CNCF/Kubernetes
+🧩 Open Source: Contributor @Techtonica , CNCF Kubernetes kind, hydrophone
 
 🧰 Automation & Monitoring: Linux, GitHub Actions, Jenkins
 
