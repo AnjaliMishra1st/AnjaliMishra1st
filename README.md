@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Anjali Mishra</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Aspiring Software Engineer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=☁️+Building+Scalable+Cloud+Systems;🚀+Contributing+to+Open+Source;💻+Mastering+DSA+%26+DevOps;☕+Debugging+with+Coffee+and+Smiles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=+Building+Scalable+Cloud+Systems;🚀+Contributing+to+Open+Source;💻+Mastering+DSA+%26+DevOps;☕+Debugging+with+Coffee+and+Smiles!" alt="Typing SVG" />
 </p>
-<img align="right" alt="coding girl" width="380" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" />
+<!-- <img align="right" alt="coding girl" width="210" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" /> -->
 
 ---
 
