@@ -7,59 +7,49 @@
 
 ---
 
-🧩 About Me  
+## About Me  
 
 ```cpp
-struct Engineer {
+class Engineer {
+public:
     string name = "Anjali Mishra";
-    string specialization = "Cloud Computing & DevOps";
-    string passion = "Building scalable systems and solving real-world problems";
-    string currentlyLearning = "DSA in cpp, AWS, and Linux, Docker";
-    string funFact = "I debug faster with coffee ☕";
+    vector<string> skills = {"AWS", "Docker", "Kubernetes", "Linux", "CI/CD", "C++", "Python"};
+    string domain = "Cloud Computing & DevOps Engineering";
+    string interest = "Distributed Systems & Automation";
+    string currentMission = "Mastering DSA and building real-world projects";
+    string funFact = "Turns coffee into scalable systems ☕";
 };
 ```
 
-🚀 Technical Interests
----
-☁️ Cloud Infrastructure: AWS, Docker, Kubernetes, CI/CD Pipelines
+## Current Focus
 
-🧠 Problem Solving: Data Structures & Algorithms (C++ / Python)
-
-💻 Development: Full Stack Web Apps (Flask, React, MySQL)
-
-🧩 Open Source: Contributor @Techtonica , CNCF Kubernetes kind, hydrophone
-
-🧰 Automation & Monitoring: Linux, GitHub Actions, Jenkins
-
-🧠 Current Focus
----
-Strengthening DSA , Project,
+Strengthening DSA , Project , OSS ,
 Cloud & DevOps internships
 
 ---
-🛠️ Tech Stack
+## Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,cpp,java,aws,docker,kubernetes,linux,git,githubactions,html,css,js,mysql,flask,react,vscode" /> </p>
 
 ---
 
-📊 GitHub Stats
+## GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anjalimishra1st&show_icons=true&theme=tokyonight" alt="Anjali's GitHub stats" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishra1st&theme=tokyonight" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishra1st&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
 
 ---
 
-🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="left"> <a href="https://linkedin.com/in/anjali-mishra" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /> </a> <a href="https://www.hackerrank.com/anjalimishra" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="Hackerrank" height="40" /> </a> <a href="https://leetcode.com/anjalimishra" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="Leetcode" height="40" /> </a> <a href="https://auth.geeksforgeeks.org/user/anjalimishra" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="40" /> </a> </p>
 
 ---
 
 🏆 GitHub Achievements
 ---
-🏅 Pair Extraordinaire – Collaborated effectively on open-source projects Techtonica
+- Pair Extraordinaire – Collaborated effectively on open-source projects Techtonica
 
-🐙 Pull Shark – Successfully merged PRs to major orgs like Kubernetes
+- Pull Shark – Successfully merged PRs to major orgs like Kubernetes
 
-💻 Active Contributor – Committed to building meaningful projects
+- Active Contributor – Committed to building meaningful projects
 
 ---
 
